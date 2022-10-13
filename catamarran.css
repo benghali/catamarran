@@ -1,0 +1,155 @@
+ul {
+    list-style-type: none;
+    overflow: hidden;
+    background-color: #FF0096;
+    margin-top: -60px;
+  
+}
+   
+  
+  
+  li {
+    float: left;
+    margin-left: 100px;
+    margin-top: 25px;
+    font-family:Arial, Helvetica, sans-serif ;
+    position: center;
+     
+  }
+  
+  li a {
+    display: block;
+    color: white;
+    text-align: center;
+    margin-top: 50px;
+    text-decoration: none;
+    font-size: 20px;
+  }
+  
+  li a:hover {
+    background-color: rgb(17, 17, 17);
+  }
+.map{
+    position:absolute ;
+    top:600px;
+    right: 100px;
+
+}
+video{
+    object-fit:cover;
+    opacity:0.8;   
+    margin-top: -16px;
+  }
+  .text{
+    position: absolute;
+    left:0;
+    top: 0;
+    margin-top: 15px;
+    margin-left: 200px;
+    
+font-size:30px; 
+color:#FFFFFF;
+ }
+ .h1{position: relative;
+    color: #FFFFFF;
+    font-size: 3em;
+    font-weight: 700px;
+    font-family: Poppins,sans-serif;
+    
+margin-top: 170px;
+margin-left: 50px;
+font-style: bold;
+
+
+ }
+ 
+
+ .par {position: relative;
+  
+    color: #FFFFFF;
+    font-size: 3em;
+    font-weight: 700px;
+  top: -100px;
+  font-family: Poppins,sans-serif;
+margin-left: 450px;}
+.elementor{
+    position: absolute;
+    margin-top: -100px;
+    margin-left: 500px;
+    font-size: 0.9em;
+    font-weight:200;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    color: #FFFFFF;
+    background-color: #FF0096;
+    border-style: solid;
+    border-width: 2px 2px 2px 2px;
+    border-color: #FF0096;
+    border-radius: 10px 10px 10px 10px;
+    padding: 20px 30px 20px 30px;
+}
+#img{
+    height: 60px;
+    margin-top: 35px;
+}
+.ab{
+
+position: absolute;
+    margin-top: -100px;
+    margin-left: 800px;
+    font-size: 0.9em;
+    font-weight:200;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    color: #FFFFFF;
+    background-color: Transparent;
+    border-style: solid;
+    border-width: 2px 2px 2px 2px;
+    border-color: #FF0096;
+    border-radius: 10px 10px 10px 10px;
+    padding: 20px 30px 20px 30px;
+}
+#h2{
+    font-family: sans-serif;
+    font-size: 3.1em;
+    font-weight: 800;
+    letter-spacing: -4px;
+}
+#description{
+    font-family:sans-serif;
+    margin-top: 0;
+    margin-bottom: .9rem;
+    overflow-wrap: break-word;
+    width: 40%;
+}
+a.button {
+  -webkit-appearance: button;
+  -moz-appearance: button;
+  appearance: button;
+
+  text-decoration: none;
+  color: initial;
+}
+#Vip{
+  margin-top:  20px;
+  margin-left: 0px; 
+}
+.pack-vip{
+  font-family: sans-serif;
+  font-size: 2.1em;
+  font-weight: 800px;
+  letter-spacing: -4px;
+  margin-top:-200px;
+  margin-left:80px ;
+}
+.yachtpic{
+  box-shadow: 10px 10px;
+}
+.pack-gold{
+  font-family: sans-serif;
+  font-size: 2.1em;
+  font-weight: 800px;
+  letter-spacing: -4px;
+  margin-top:-200px;
+  margin-left: 50px ;
+}
